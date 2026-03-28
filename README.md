@@ -27,3 +27,7 @@ Better retrieval → Better context → Better answers
 
 ```bash
 pip install -r requirements.txt
+
+## Example Use Case
+
+Ask a question → Retrieve relevant documents → Generate answer using LLM
